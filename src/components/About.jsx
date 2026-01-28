@@ -12,7 +12,7 @@ const About = () => {
           <div className="col col-lg-6">
         <h2 className="numbered-heading">Sobre mim</h2>
         <p className="texto-sobre">Prazer, Ryan! Meu interesse por programação começou  em 2016, quando comecei a criar mods para jogos. Desde então, venho expandindo meus conhecimentos e habilidades.
-Atualmente, estou focado em desenvolver projetos de front-end e back-end, sempre buscando aprender mais. Também tenho um interesse crescente por Banco de Dados e Cibersegurança, áreas que quero explorar mais.
+Atualmente, estou focado em desenvolver projetos fullstack, buscando aprender mais. Também tenho um interesse por Cibersegurança, área que quero explorar mais.
 </p>
         <p className="habilidades">Algumas das tecnologias que eu estou utilizando recentemente:</p>
         <ul className="habilidades-lista">
@@ -21,7 +21,7 @@ Atualmente, estou focado em desenvolver projetos de front-end e back-end, sempre
           <li>JavaScript</li>
           <li>React</li>
           <li>SQL</li>
-          <li>C#</li>
+          <li>Python</li>
           </ul>
 
    </div>

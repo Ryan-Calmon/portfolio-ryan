@@ -17,8 +17,8 @@ const Home = () => {
         </div>
         <div>
         <p className="sobre">
-          Sou um estudante de Ciência da Computação, <br />
-          atualmente focado no desenvolvimento front-end e cyber security.
+          Estudante de Ciência da Computação pelo CEFET-RJ, no sexto período.<br />
+          Atualmente focado no desenvolvimento fullstack e cyber security.
         </p>
         </div>
       </div>
